@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>El Trackpad v0.1</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Thu, 17 Sep 2020 02:35:42 -0300</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/HugoLis/el-trackpad-files/master/El%20Trackpad%20v0.1.zip" sparkle:version="1" sparkle:shortVersionString="0.1" length="2234447" type="application/octet-stream" sparkle:edSignature="I5qkR99O6u34NXwNmlq5PksyY0qNLZkR5+pCMDch3UvJ8nYf7Pqf+dcXu4Dc2mQoszgWEWUAer+Fs6pRYsHICw=="/>
+        </item>
+    </channel>
+</rss>
