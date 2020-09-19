@@ -8,5 +8,14 @@
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/HugoLis/el-trackpad-files/master/El%20Trackpad%20v0.1.zip" sparkle:version="1" sparkle:shortVersionString="0.1" length="2234447" type="application/octet-stream" sparkle:edSignature="I5qkR99O6u34NXwNmlq5PksyY0qNLZkR5+pCMDch3UvJ8nYf7Pqf+dcXu4Dc2mQoszgWEWUAer+Fs6pRYsHICw=="/>
         </item>
+        <item>
+            <title>0.9</title>
+            <pubDate>Fri, 18 Sep 2020 21:03:32 -0300</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/HugoLis/el-trackpad-files/master/El%20Trackpad%20v0.9.zip" sparkle:version="2" sparkle:shortVersionString="0.9" length="5613331" type="application/octet-stream" sparkle:edSignature="yd4wVCrA7A5lhMz4xB7l9MWvvPRel3hv9ya8lyewRP3+EPxBTT0rw0v6+GvlOxZT0H6zv2YXKCrCpmec4qYzCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/HugoLis/el-trackpad-files/master/El%20Trackpad2-1.delta" sparkle:version="2" sparkle:shortVersionString="0.9" sparkle:deltaFrom="1" length="3209478" type="application/octet-stream" sparkle:edSignature="2phdJeqMRdeV65IT6c6wgmqPXCatTRWeTfYI6Nr11Ymo4ULwLyYJCOPqI/zQINEFbYGsXSso+/c25QcECpTOCw=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
