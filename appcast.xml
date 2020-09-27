@@ -27,5 +27,16 @@
                 <enclosure url="https://raw.githubusercontent.com/HugoLis/el-trackpad-files/master/El%20Trackpad6-3.delta" sparkle:version="6" sparkle:shortVersionString="1.0.1" sparkle:deltaFrom="3" length="101792" type="application/octet-stream" sparkle:edSignature="CPunZ09oX0xEw8iX+k7/Oaarh4JdVmH6ylz+YRIXDE13LJrTL7ADelkdsEJgR0AExWtGMZju2ePEXVMPg3A0CQ=="/>
             </sparkle:deltas>
         </item>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Sun, 27 Sep 2020 15:58:28 -0300</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/HugoLis/el-trackpad-files/master/El%20Trackpad%201.0.1%20(7).zip" sparkle:version="7" sparkle:shortVersionString="1.0.1" length="5653608" type="application/octet-stream" sparkle:edSignature="jAPLKGYjGyTeMXjWQsQzjOLweTBD8tjScEu4UCCz+HiE/EEAOCef9Gnykp9MnrxhVvX4l69CRPlZoocbG7CmBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/HugoLis/el-trackpad-files/master/El%20Trackpad7-6.delta" sparkle:version="7" sparkle:shortVersionString="1.0.1" sparkle:deltaFrom="6" length="51229" type="application/octet-stream" sparkle:edSignature="eq8gtxIbCFv4xHNKF8bhuiNtK3UKiUeIIwjSqejPJju39EtzLMcB8vd+WITTuCupoXeJ7ozVWDVciO/ScMlVAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/HugoLis/el-trackpad-files/master/El%20Trackpad7-4.delta" sparkle:version="7" sparkle:shortVersionString="1.0.1" sparkle:deltaFrom="4" length="112782" type="application/octet-stream" sparkle:edSignature="/uTXuJTxO2/aJwodhItID1cbQ3OEKcNxMBZDV2h51F2ertnml53MTGGBQa9dqVeEzwYS1NG8LMV7cp3eDnfuDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/HugoLis/el-trackpad-files/master/El%20Trackpad7-3.delta" sparkle:version="7" sparkle:shortVersionString="1.0.1" sparkle:deltaFrom="3" length="107367" type="application/octet-stream" sparkle:edSignature="zMNpr8Eqa89ZLzAMU0tjt4v2Yazl+AKXMClXI9pGlMn2Y86WxwEm8lDYHOg03iueDMP2AsPnj4XuH/Dv82YgDg=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
