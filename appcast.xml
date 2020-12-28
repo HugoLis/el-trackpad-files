@@ -91,5 +91,19 @@
                 <enclosure url="https://raw.githubusercontent.com/HugoLis/el-trackpad-files/master/El%20Trackpad13-4.delta" sparkle:version="13" sparkle:shortVersionString="1.0.4" sparkle:deltaFrom="4" length="1150597" type="application/octet-stream" sparkle:edSignature="Jy1p3Ld1ddWabbR0/H73QM/z0driaispV/qr0oSyORnvdgPtw1qjqBZOZn7EHJhgwu/ffHW8GjXQNsgYZ+qnCg=="/>
             </sparkle:deltas>
         </item>
+        <item>
+            <title>1.0.5</title>
+            <pubDate>Mon, 28 Dec 2020 01:35:44 -0300</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/HugoLis/el-trackpad-files/master/El%20Trackpad%20v1.0.5%20(14).zip" sparkle:version="14" sparkle:shortVersionString="1.0.5" length="6122973" type="application/octet-stream" sparkle:edSignature="cliNC4ixIAnXTs3TpfUH4gYdrnG0Y1zED7Y1QPTT/mDzxes3alN5ZEsFUUoBWYdHwzB0C0ABb5BKjo3su7+vDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/HugoLis/el-trackpad-files/master/El%20Trackpad14-13.delta" sparkle:version="14" sparkle:shortVersionString="1.0.5" sparkle:deltaFrom="13" length="43916" type="application/octet-stream" sparkle:edSignature="ftwWtHeF44CU0YrZVzfa7NCANijgBG1VDcHnoDyP9HTESYFk+WZC6ZXw6sTvnomPXl/7RAF00wWc47CwmlL7BQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/HugoLis/el-trackpad-files/master/El%20Trackpad14-11.delta" sparkle:version="14" sparkle:shortVersionString="1.0.5" sparkle:deltaFrom="11" length="84082" type="application/octet-stream" sparkle:edSignature="gdTYhQ1xIzXc5hZnNzk/XQOe0EiOeDLq9nZfhSyMZPnYWmo7cSFPBWpp3731PDWZAINMry/xfO13+dB8oQxoBw=="/>
+                <enclosure url="https://raw.githubusercontent.com/HugoLis/el-trackpad-files/master/El%20Trackpad14-10.delta" sparkle:version="14" sparkle:shortVersionString="1.0.5" sparkle:deltaFrom="10" length="1091548" type="application/octet-stream" sparkle:edSignature="EknuC2LeE/A189u2RyyjmVL6uznPvW6NG+TapMUFlwgNFJ7HMFEL41mxwK64UxUkkmF4pfB09/HgnPrMPiAYDw=="/>
+                <enclosure url="https://raw.githubusercontent.com/HugoLis/el-trackpad-files/master/El%20Trackpad14-8.delta" sparkle:version="14" sparkle:shortVersionString="1.0.5" sparkle:deltaFrom="8" length="1092454" type="application/octet-stream" sparkle:edSignature="164dN1+5ew5xIL0XHyVnO5kroY4WGr2aXgotHkUZfDjBvb8b0xb5HLYMk4qjNx420lYM+DI0HIt4FjWkO0WlBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/HugoLis/el-trackpad-files/master/El%20Trackpad14-7.delta" sparkle:version="14" sparkle:shortVersionString="1.0.5" sparkle:deltaFrom="7" length="1092543" type="application/octet-stream" sparkle:edSignature="tQgLzyPDDqgYq3Bvc5JYXRQFnSJRUOWf7bIz0IVSteUnOWCJfQBMgBz+LQ5+U3gXW2B8sCi/KknQ7cQ8vWboAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/HugoLis/el-trackpad-files/master/El%20Trackpad14-6.delta" sparkle:version="14" sparkle:shortVersionString="1.0.5" sparkle:deltaFrom="6" length="1100305" type="application/octet-stream" sparkle:edSignature="HUjXSlaIeyhsgZUj7HN5kOxCGAbOlbLOtGJquYTqPUE5NurukGiv/3x07Pd9a8Dz42DEBdBSXfcsFXxsOz42CQ=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
